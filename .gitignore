@@ -20,3 +20,6 @@ sandbox/src/.DS_Store
 sandbox/src/main/.DS_Store
 sandbox/src/main/java/.DS_Store
 sandbox/src/test/.DS_Store
+sandbox/build/classes/java/main/programm.class
+sandbox/build/
+
