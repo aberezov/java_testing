@@ -23,3 +23,4 @@ sandbox/src/test/.DS_Store
 sandbox/build/classes/java/main/programm.class
 sandbox/build/
 
+.idea/workspace.xml
